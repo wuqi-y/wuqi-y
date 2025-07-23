@@ -4,27 +4,26 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=小🐑同学祝您今天愉快!&center=true&size=27">
 	</a>
 </h1>
-<div align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuqi-y&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-<!-- <img align='center'src="https://github-readme-stats.vercel.app/api/wakatime?username=wuqi-y"/> -->
+
+
+**🤺 About Me**
+
+嗨，你好，我是小杨同学。热爱编程、音乐、读书、发呆。
+
+热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
+
+我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wuqi&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C974%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 9 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -80,13 +79,10 @@ Stylus                   2 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/wuqi-y/wuqi-y/main/assets/bar_graph.png)
-
 
  Last Updated on 23/07/2025 03:29:16 UTC
 <!--END_SECTION:waka-->
+
 
 
 <!--
