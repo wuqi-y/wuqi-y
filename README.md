@@ -1,7 +1,7 @@
 
 <h1 align="center">
 	<a href="https://anify.cn/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=小🐑同学祝您今天愉快!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=小🐑同学祝您今天愉快!;无期并非终点,而是重新定义起点的契机!&center=true&size=27&width=495">
 	</a>
 </h1>
 
