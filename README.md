@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C085%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C088%20hrs%203%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -48,23 +48,23 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue.js                   33 hrs              ███████████████░░░░░░░░░░   60.91 % 
-TypeScript               15 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Python                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Vue.js                   33 hrs 1 min        ███████████████░░░░░░░░░░   60.72 % 
+TypeScript               15 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+Python                   2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 SCSS                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 编辑器: 
-VS Code                  36 hrs 38 mins      █████████████████░░░░░░░░   67.64 % 
-Cursor                   17 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   32.36 % 
+VS Code                  36 hrs 38 mins      █████████████████░░░░░░░░   67.36 % 
+Cursor                   17 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   32.64 % 
 
 💻 操作系统: 
-Windows                  42 hrs 27 mins      ████████████████████░░░░░   78.38 % 
-Mac                      11 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Windows                  42 hrs 54 mins      ████████████████████░░░░░   78.87 % 
+Mac                      11 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
 ```
 
 
- Last Updated on 22/03/2026 02:57:08 UTC
+ Last Updated on 23/03/2026 02:57:07 UTC
 <!--END_SECTION:waka-->
 
 
