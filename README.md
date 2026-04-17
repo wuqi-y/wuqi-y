@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C280%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C289%20hrs%2035%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -48,24 +48,24 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue.js                   36 hrs 25 mins      █████████████████░░░░░░░░   68.18 % 
-TypeScript               8 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Other                    2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-JavaScript               2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Markdown                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Vue                      35 hrs 14 mins      ████████████████░░░░░░░░░   63.89 % 
+TypeScript               7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Other                    3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JavaScript               2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Vue.js                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 编辑器: 
-VS Code                  31 hrs 53 mins      ███████████████░░░░░░░░░░   59.71 % 
-Cursor                   21 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.21 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+VS Code                  31 hrs 40 mins      ██████████████░░░░░░░░░░░   57.44 % 
+Cursor                   23 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.44 % 
+Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 操作系统: 
-Windows                  44 hrs 34 mins      █████████████████████░░░░   83.44 % 
-Mac                      8 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Windows                  44 hrs 4 mins       ████████████████████░░░░░   79.93 % 
+Mac                      11 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
 ```
 
 
- Last Updated on 16/04/2026 03:38:06 UTC
+ Last Updated on 17/04/2026 03:34:45 UTC
 <!--END_SECTION:waka-->
 
 
