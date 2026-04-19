@@ -19,6 +19,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C307%20hrs%2056%20mins-blue?style=flat)
+
 **我是早鸟 🐤** 
 
 ```text
@@ -46,24 +48,24 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      35 hrs 14 mins      ████████████████░░░░░░░░░   63.89 % 
-TypeScript               7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Other                    3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-JavaScript               2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Vue.js                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Vue                      31 hrs 57 mins      ███████████████░░░░░░░░░░   60.66 % 
+TypeScript               8 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Other                    2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+JavaScript               2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Vue.js                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 编辑器: 
-VS Code                  31 hrs 40 mins      ██████████████░░░░░░░░░░░   57.44 % 
-Cursor                   23 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.44 % 
-Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+VS Code                  31 hrs 1 min        ███████████████░░░░░░░░░░   58.91 % 
+Cursor                   21 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.71 % 
+Unknown Editor           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 操作系统: 
-Windows                  44 hrs 4 mins       ████████████████████░░░░░   79.93 % 
-Mac                      11 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Windows                  40 hrs 28 mins      ███████████████████░░░░░░   76.85 % 
+Mac                      12 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
 ```
 
 
- Last Updated on 18/04/2026 03:22:05 UTC
+ Last Updated on 19/04/2026 03:41:01 UTC
 <!--END_SECTION:waka-->
 
 
