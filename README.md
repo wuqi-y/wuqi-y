@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C529%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C528%20hrs%2043%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -48,24 +48,26 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      9 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
-TypeScript               9 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.36 % 
-Markdown                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Python                   2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Other                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+TypeScript               11 hrs 44 mins      ███████████░░░░░░░░░░░░░░   42.75 % 
+Vue                      9 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
+Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Other                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 编辑器: 
-VS Code                  14 hrs 34 mins      █████████████░░░░░░░░░░░░   53.53 % 
-Cursor                   12 hrs 6 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-Claude Code              32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+VS Code                  13 hrs 18 mins      ████████████░░░░░░░░░░░░░   48.47 % 
+Cursor                   12 hrs 50 mins      ████████████░░░░░░░░░░░░░   46.75 % 
+Claude Code              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Exec Wakatime            30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 操作系统: 
-Mac                      14 hrs 22 mins      █████████████░░░░░░░░░░░░   52.80 % 
-Windows                  12 hrs 50 mins      ████████████░░░░░░░░░░░░░   47.20 % 
+Mac                      15 hrs 4 mins       ██████████████░░░░░░░░░░░   54.93 % 
+Windows                  12 hrs 22 mins      ███████████░░░░░░░░░░░░░░   45.07 % 
 ```
 
 
- Last Updated on 03/06/2026 05:02:36 UTC
+ Last Updated on 04/06/2026 04:55:30 UTC
 <!--END_SECTION:waka-->
 
 
