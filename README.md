@@ -19,28 +19,28 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C933%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C937%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-544%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-548%20hrs%2054%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-🌆 白天                     376 commits         ███████████░░░░░░░░░░░░░░   42.20 % 
-🌃 傍晚                     345 commits         ██████████░░░░░░░░░░░░░░░   38.72 % 
-🌙 晚上                     59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+🌞 早晨                     112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+🌆 白天                     376 commits         ███████████░░░░░░░░░░░░░░   42.15 % 
+🌃 傍晚                     345 commits         ██████████░░░░░░░░░░░░░░░   38.68 % 
+🌙 晚上                     59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 📅 **星期三 时的我最有干劲** 
 
 ```text
-星期一                      93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-星期二                      126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-星期三                      250 commits         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-星期四                      99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-星期五                      89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-星期六                      141 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-星期日                      93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+星期一                      93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+星期二                      126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+星期三                      250 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+星期四                      99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+星期五                      90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+星期六                      141 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+星期日                      93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 ```
 
 
@@ -50,52 +50,52 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               17 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   31.40 % 
-Markdown                 12 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-TypeScript               12 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Other                    4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Vue                      3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+JavaScript               18 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   35.02 % 
+TypeScript               10 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Markdown                 7 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Vue                      4 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Other                    4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 🔥 编辑器: 
-VS Code                  29 hrs 34 mins      █████████████░░░░░░░░░░░░   51.63 % 
-Codex Vscode             25 hrs 13 mins      ███████████░░░░░░░░░░░░░░   44.04 % 
-Claude Code              1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Qwen Code Cli            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Code                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+VS Code                  26 hrs 38 mins      ████████████░░░░░░░░░░░░░   49.26 % 
+Codex Vscode             25 hrs 13 mins      ████████████░░░░░░░░░░░░░   46.65 % 
+Claude Code              1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Qwen Code Cli            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Code                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 操作系统: 
-Mac                      43 hrs 40 mins      ███████████████████░░░░░░   76.26 % 
-Windows                  13 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Mac                      35 hrs 11 mins      ████████████████░░░░░░░░░   65.06 % 
+Windows                  18 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   34.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 hrs 58 mins (95.97%)
+⏱ AI Coding Time: 51 hrs 16 mins (94.79%)
 
-✍️ 25,305 lines written by AI, 1,875 lines written by hand (93.1% AI-written)
+✍️ 20,369 lines written by AI, 2,673 lines written by hand (88.4% AI-written)
 
-🔤 571,782,330 Input Tokens, 4,168,798 Output Tokens
+🔤 422,393,588 Input Tokens, 3,693,451 Output Tokens
 
-💵 $3170.97 Estimated AI Cost This Week
+💵 $2460.08 Estimated AI Cost This Week
 
-🧠 259 AI Sessions, 615 AI Prompts
+🧠 219 AI Sessions, 563 AI Prompts
 
-GPT                      25,150 lines        ████████████████████████░   96.43 % 
-Claude                   930 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+GPT                      20,049 lines        ████████████████████████░   95.57 % 
+Claude                   930 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Qwen-Code-Cli            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen Code                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Qwen-Code-Cli            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.1% of written lines came from AI
-📄 Detailed Prompter — average 1,012 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 8.52% of changed lines were hand-edited
+🤖 AI-Driven — 88.4% of written lines came from AI
+📄 Detailed Prompter — average 943 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 13.97% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 01:49:22 UTC
+ Last Updated on 22/08/2026 01:42:26 UTC
 <!--END_SECTION:waka-->
 
 
