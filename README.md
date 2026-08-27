@@ -19,28 +19,28 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C950%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C952%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-561%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-563%20hrs%2055%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-🌆 白天                     376 commits         ███████████░░░░░░░░░░░░░░   42.06 % 
-🌃 傍晚                     347 commits         ██████████░░░░░░░░░░░░░░░   38.81 % 
-🌙 晚上                     59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌞 早晨                     112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+🌆 白天                     379 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
+🌃 傍晚                     347 commits         ██████████░░░░░░░░░░░░░░░   38.68 % 
+🌙 晚上                     59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 ```
 📅 **星期三 时的我最有干劲** 
 
 ```text
-星期一                      94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-星期二                      127 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-星期三                      250 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-星期四                      99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-星期五                      90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-星期六                      141 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-星期日                      93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+星期一                      94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+星期二                      127 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+星期三                      253 commits         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+星期四                      99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+星期五                      90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+星期六                      141 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+星期日                      93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 ```
 
 
@@ -50,52 +50,51 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               13 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   34.18 % 
-TypeScript               6 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Markdown                 5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Other                    3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Vue                      3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+JavaScript               10 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   33.78 % 
+TypeScript               5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+JSON                     5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Other                    3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Vue                      2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 🔥 编辑器: 
-VS Code                  21 hrs 13 mins      ██████████████░░░░░░░░░░░   54.32 % 
-Codex Vscode             16 hrs 29 mins      ███████████░░░░░░░░░░░░░░   42.20 % 
-Claude Code              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Code                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Grok Build               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  19 hrs 52 mins      ████████████████░░░░░░░░░   63.26 % 
+Codex Vscode             10 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Claude Code              1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Code                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 操作系统: 
-Mac                      19 hrs 43 mins      █████████████░░░░░░░░░░░░   50.47 % 
-Windows                  19 hrs 21 mins      ████████████░░░░░░░░░░░░░   49.53 % 
+Windows                  18 hrs 53 mins      ███████████████░░░░░░░░░░   60.10 % 
+Mac                      12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   39.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 24 mins (90.59%)
+⏱ AI Coding Time: 28 hrs 12 mins (89.79%)
 
-✍️ 11,661 lines written by AI, 2,621 lines written by hand (81.65% AI-written)
+✍️ 6,461 lines written by AI, 1,353 lines written by hand (82.68% AI-written)
 
-🔤 292,126,737 Input Tokens, 2,395,010 Output Tokens
+🔤 249,537,539 Input Tokens, 1,715,116 Output Tokens
 
-💵 $1650.27 Estimated AI Cost This Week
+💵 $1261.27 Estimated AI Cost This Week
 
-🧠 184 AI Sessions, 474 AI Prompts
+🧠 175 AI Sessions, 391 AI Prompts
 
-GPT                      11,324 lines        ███████████████████████░░   91.56 % 
-Claude                   930 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Vscode                   114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+GPT                      5,712 lines         █████████████████████░░░░   84.55 % 
+Claude                   930 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Vscode                   114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen Code                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.65% of written lines came from AI
-📄 Detailed Prompter — average 762 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.15% of changed lines were hand-edited
+🤖 AI-Driven — 82.68% of written lines came from AI
+📄 Detailed Prompter — average 837 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 20.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 01:49:38 UTC
+ Last Updated on 27/08/2026 08:57:43 UTC
 <!--END_SECTION:waka-->
 
 
