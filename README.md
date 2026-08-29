@@ -19,9 +19,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C958%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C964%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-570%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-577%20hrs%208%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -50,52 +50,52 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               10 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   33.92 % 
-JSON                     7 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
-Other                    4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-TypeScript               3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Vue                      2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+JavaScript               8 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+JSON                     7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+TypeScript               6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Other                    3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+HTML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 编辑器: 
-VS Code                  21 hrs 52 mins      ██████████████████░░░░░░░   71.28 % 
-Codex Vscode             8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Qwen Code Cli            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+VS Code                  18 hrs 52 mins      ███████████████░░░░░░░░░░   59.42 % 
+Codex Vscode             12 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   38.93 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 操作系统: 
-Windows                  19 hrs 46 mins      ████████████████░░░░░░░░░   64.42 % 
-Mac                      10 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   35.58 % 
+Mac                      16 hrs 31 mins      █████████████░░░░░░░░░░░░   52.01 % 
+Windows                  15 hrs 14 mins      ████████████░░░░░░░░░░░░░   47.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 5 mins (88.29%)
+⏱ AI Coding Time: 28 hrs 30 mins (89.79%)
 
-✍️ 7,247 lines written by AI, 816 lines written by hand (89.88% AI-written)
+✍️ 12,170 lines written by AI, 685 lines written by hand (94.67% AI-written)
 
-🔤 252,896,540 Input Tokens, 1,859,372 Output Tokens
+🔤 223,354,394 Input Tokens, 2,331,172 Output Tokens
 
-💵 $1138.33 Estimated AI Cost This Week
+💵 $1128.14 Estimated AI Cost This Week
 
-🧠 189 AI Sessions, 403 AI Prompts
+🧠 233 AI Sessions, 449 AI Prompts
 
-GPT                      6,666 lines         ██████████████████████░░░   87.81 % 
-Deepseek                 739 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Vscode                   186 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      9,165 lines         ██████████████████░░░░░░░   72.27 % 
+Deepseek                 3,328 lines         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Vscode                   186 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Codex-Vscode             2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.88% of written lines came from AI
-📄 Detailed Prompter — average 1,001 characters per prompt
+🤖 AI-Driven — 94.67% of written lines came from AI
+📄 Detailed Prompter — average 1,346 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.12% of changed lines were hand-edited
+🚀 High AI Trust — 6.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 11:09:50 UTC
+ Last Updated on 29/08/2026 06:54:12 UTC
 <!--END_SECTION:waka-->
 
 
