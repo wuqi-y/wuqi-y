@@ -50,36 +50,36 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               8 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-JSON                     7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-TypeScript               6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Other                    4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-HTML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+JavaScript               8 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+JSON                     7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+TypeScript               6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Other                    4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+HTML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 编辑器: 
-VS Code                  18 hrs 12 mins      ███████████████░░░░░░░░░░   58.55 % 
-Codex Vscode             12 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   39.77 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+VS Code                  17 hrs 26 mins      ██████████████░░░░░░░░░░░   57.51 % 
+Codex Vscode             12 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   40.77 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 操作系统: 
-Mac                      16 hrs 27 mins      █████████████░░░░░░░░░░░░   52.92 % 
-Windows                  14 hrs 38 mins      ████████████░░░░░░░░░░░░░   47.08 % 
+Mac                      16 hrs 27 mins      ██████████████░░░░░░░░░░░   54.25 % 
+Windows                  13 hrs 52 mins      ███████████░░░░░░░░░░░░░░   45.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 36 mins (92.04%)
+⏱ AI Coding Time: 28 hrs 13 mins (93.06%)
 
-✍️ 12,170 lines written by AI, 683 lines written by hand (94.69% AI-written)
+✍️ 12,170 lines written by AI, 682 lines written by hand (94.69% AI-written)
 
-🔤 243,770,060 Input Tokens, 2,358,606 Output Tokens
+🔤 238,710,508 Input Tokens, 2,336,729 Output Tokens
 
-💵 $1210.35 Estimated AI Cost This Week
+💵 $1189.67 Estimated AI Cost This Week
 
-🧠 228 AI Sessions, 434 AI Prompts
+🧠 224 AI Sessions, 424 AI Prompts
 
 GPT                      9,165 lines         ██████████████████░░░░░░░   72.27 % 
 Deepseek                 3,328 lines         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
@@ -89,13 +89,13 @@ Grok                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 94.69% of written lines came from AI
-📄 Detailed Prompter — average 1,380 characters per prompt
+📄 Detailed Prompter — average 1,405 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.0% of changed lines were hand-edited
+🚀 High AI Trust — 5.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 05:08:38 UTC
+ Last Updated on 31/08/2026 05:16:19 UTC
 <!--END_SECTION:waka-->
 
 
