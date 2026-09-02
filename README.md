@@ -19,28 +19,28 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C971%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C979%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-583%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-591%20hrs%2037%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-🌆 白天                     384 commits         ███████████░░░░░░░░░░░░░░   42.34 % 
-🌃 傍晚                     351 commits         ██████████░░░░░░░░░░░░░░░   38.70 % 
-🌙 晚上                     60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+🌞 早晨                     112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+🌆 白天                     386 commits         ███████████░░░░░░░░░░░░░░   42.46 % 
+🌃 傍晚                     351 commits         ██████████░░░░░░░░░░░░░░░   38.61 % 
+🌙 晚上                     60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 ```
 📅 **星期三 时的我最有干劲** 
 
 ```text
-星期一                      95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-星期二                      127 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-星期三                      253 commits         ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-星期四                      103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-星期五                      95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-星期六                      141 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-星期日                      93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+星期一                      95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+星期二                      129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+星期三                      253 commits         ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+星期四                      103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+星期五                      95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+星期六                      141 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+星期日                      93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 
 
@@ -50,52 +50,52 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JSON                     8 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-TypeScript               5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Other                    3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Markdown                 3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-JavaScript               3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+JSON                     8 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Markdown                 5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+JavaScript               5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+TypeScript               3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Other                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 🔥 编辑器: 
-VS Code                  21 hrs 50 mins      ███████████████████░░░░░░   76.00 % 
-Codex Vscode             6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Claude Code              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+VS Code                  21 hrs 58 mins      █████████████████░░░░░░░░   67.15 % 
+Codex Vscode             8 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Claude Code              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Agent                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 操作系统: 
-Windows                  19 hrs 30 mins      █████████████████░░░░░░░░   67.88 % 
-Mac                      9 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Windows                  19 hrs 52 mins      ███████████████░░░░░░░░░░   60.72 % 
+Mac                      12 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   39.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 31 mins (92.32%)
+⏱ AI Coding Time: 30 hrs 17 mins (92.6%)
 
-✍️ 8,050 lines written by AI, 1,173 lines written by hand (87.28% AI-written)
+✍️ 9,938 lines written by AI, 1,207 lines written by hand (89.17% AI-written)
 
-🔤 316,369,330 Input Tokens, 2,093,623 Output Tokens
+🔤 311,736,066 Input Tokens, 2,240,021 Output Tokens
 
-💵 $1385.64 Estimated AI Cost This Week
+💵 $1445.26 Estimated AI Cost This Week
 
-🧠 234 AI Sessions, 400 AI Prompts
+🧠 283 AI Sessions, 465 AI Prompts
 
-GPT                      4,757 lines         ██████████████░░░░░░░░░░░   56.62 % 
-Deepseek                 3,328 lines         ██████████░░░░░░░░░░░░░░░   39.61 % 
-Vscode                   186 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Claude                   80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Pi                       49 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+GPT                      6,475 lines         ████████████████░░░░░░░░░   62.82 % 
+Deepseek                 3,328 lines         ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Claude                   368 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Vscode                   72 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Pi                       62 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.28% of written lines came from AI
-📄 Detailed Prompter — average 1,353 characters per prompt
+🤖 AI-Driven — 89.17% of written lines came from AI
+📄 Detailed Prompter — average 1,383 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 12.69% of changed lines were hand-edited
+🚀 High AI Trust — 10.87% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 04:51:28 UTC
+ Last Updated on 02/09/2026 04:12:38 UTC
 <!--END_SECTION:waka-->
 
 
