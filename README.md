@@ -19,9 +19,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C044%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C057%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-656%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-669%20hrs%204%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -50,52 +50,52 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   27 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   40.13 % 
-HTML                     10 hrs 41 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-JavaScript               9 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Markdown                 5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-JSON                     5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Python                   31 hrs 3 mins       ███████████░░░░░░░░░░░░░░   43.19 % 
+HTML                     10 hrs 37 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+JavaScript               9 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+JSON                     5 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Markdown                 3 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 编辑器: 
-Codex Vscode             37 hrs 53 mins      ██████████████░░░░░░░░░░░   54.41 % 
-VS Code                  24 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
-Claude Code              6 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Exec Wakatime            1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Opencode Cli             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Codex Vscode             38 hrs 10 mins      █████████████░░░░░░░░░░░░   53.09 % 
+VS Code                  26 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   37.19 % 
+Claude Code              4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Exec Wakatime            1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Opencode Cli             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 操作系统: 
-Mac                      58 hrs 20 mins      █████████████████████░░░░   83.78 % 
-Windows                  11 hrs 17 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Mac                      62 hrs 28 mins      ██████████████████████░░░   86.89 % 
+Windows                  9 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 66 hrs 56 mins (96.14%)
+⏱ AI Coding Time: 68 hrs 45 mins (95.63%)
 
-✍️ 47,255 lines written by AI, 2,553 lines written by hand (94.87% AI-written)
+✍️ 50,038 lines written by AI, 2,600 lines written by hand (95.06% AI-written)
 
-🔤 228,867,312 Input Tokens, 5,907,017 Output Tokens
+🔤 226,335,237 Input Tokens, 6,837,793 Output Tokens
 
-💵 $2414.39 Estimated AI Cost This Week
+💵 $2505.56 Estimated AI Cost This Week
 
-🧠 526 AI Sessions, 868 AI Prompts
+🧠 759 AI Sessions, 1122 AI Prompts
 
-GPT                      22,465 lines        █████████████░░░░░░░░░░░░   51.14 % 
-Glm                      9,729 lines         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Deepseek                 5,967 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Claude                   3,428 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Hermes                   1,830 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+GPT                      23,542 lines        █████████████░░░░░░░░░░░░   52.92 % 
+Glm                      10,353 lines        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Deepseek                 6,085 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Hermes                   1,955 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Claude                   1,263 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.87% of written lines came from AI
-📄 Detailed Prompter — average 1,110 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.95% of changed lines were hand-edited
+🤖 AI-Driven — 95.06% of written lines came from AI
+📚 Verbose Prompter — average 1,935 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 7.8% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 04:24:56 UTC
+ Last Updated on 10/09/2026 04:22:26 UTC
 <!--END_SECTION:waka-->
 
 
