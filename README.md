@@ -50,28 +50,28 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
-JavaScript               2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Python                   2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-YAML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Other                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Vue                      4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
+JavaScript               2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Python                   2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+YAML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Other                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 
 🔥 编辑器: 
-Codex Vscode             8 hrs 24 mins       ███████████████░░░░░░░░░░   59.45 % 
-Cursor                   5 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.30 % 
+Codex Vscode             8 hrs 24 mins       ███████████████░░░░░░░░░░   59.51 % 
+Cursor                   5 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.24 % 
 Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 操作系统: 
-Windows                  8 hrs 42 mins       ███████████████░░░░░░░░░░   61.56 % 
-Mac                      5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.44 % 
+Windows                  8 hrs 41 mins       ███████████████░░░░░░░░░░   61.52 % 
+Mac                      5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 42 mins (75.64%)
+⏱ AI Coding Time: 10 hrs 42 mins (75.71%)
 
 ✍️ 1,776 lines written by AI, 46 lines written by hand (97.48% AI-written)
 
@@ -93,7 +93,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/10/2026 05:04:43 UTC
+ Last Updated on 04/10/2026 05:37:18 UTC
 <!--END_SECTION:waka-->
 
 
