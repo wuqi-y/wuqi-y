@@ -50,35 +50,35 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 10 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-TypeScript               10 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Python                   5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Bash                     3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Markdown                 10 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+TypeScript               10 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Python                   5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Bash                     3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Vue                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 编辑器: 
-Codex Vscode             27 hrs 59 mins      ██████████████████░░░░░░░   73.80 % 
-Cursor                   8 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-Agent                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Codex Vscode             27 hrs 48 mins      ██████████████████░░░░░░░   73.66 % 
+Cursor                   8 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Agent                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 操作系统: 
-Mac                      35 hrs 37 mins      ███████████████████████░░   93.89 % 
-Windows                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Mac                      35 hrs 37 mins      ████████████████████████░   94.38 % 
+Windows                  2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 21 mins (90.57%)
+⏱ AI Coding Time: 34 hrs 9 mins (90.52%)
 
 ✍️ 9,115 lines written by AI, 164 lines written by hand (98.23% AI-written)
 
-🔤 55,139,853 Input Tokens, 1,770,529 Output Tokens
+🔤 55,026,972 Input Tokens, 1,767,344 Output Tokens
 
-💵 $891.83 Estimated AI Cost This Week
+💵 $891.53 Estimated AI Cost This Week
 
-🧠 158 AI Sessions, 425 AI Prompts
+🧠 157 AI Sessions, 420 AI Prompts
 
 GPT                      9,031 lines         ████████████████████████░   96.95 % 
 Grok                     241 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
@@ -88,13 +88,13 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.23% of written lines came from AI
-📄 Detailed Prompter — average 534 characters per prompt
+📄 Detailed Prompter — average 538 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 3.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 05:31:07 UTC
+ Last Updated on 12/10/2026 05:42:04 UTC
 <!--END_SECTION:waka-->
 
 
