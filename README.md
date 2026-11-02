@@ -19,28 +19,28 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C384%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C385%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-995%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-997%20hrs%202%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-🌆 白天                     552 commits         ███████████░░░░░░░░░░░░░░   44.12 % 
-🌃 傍晚                     468 commits         █████████░░░░░░░░░░░░░░░░   37.41 % 
+🌞 早晨                     149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌆 白天                     552 commits         ███████████░░░░░░░░░░░░░░   44.09 % 
+🌃 傍晚                     468 commits         █████████░░░░░░░░░░░░░░░░   37.38 % 
 🌙 晚上                     83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 📅 **星期三 时的我最有干劲** 
 
 ```text
-星期一                      126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-星期二                      200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-星期三                      309 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-星期四                      148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-星期五                      175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-星期六                      172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-星期日                      121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+星期一                      127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+星期二                      200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+星期三                      309 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+星期四                      148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+星期五                      175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+星期六                      172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+星期日                      121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 ```
 
 
@@ -50,47 +50,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               34 hrs 35 mins      █████████████░░░░░░░░░░░░   50.69 % 
-Markdown                 14 hrs 37 mins      █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Python                   4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-JavaScript               3 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Bash                     2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TypeScript               30 hrs 10 mins      █████████████░░░░░░░░░░░░   50.18 % 
+Markdown                 12 hrs 40 mins      █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Python                   3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+JavaScript               3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Other                    2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🔥 编辑器: 
-Claude Code              57 hrs 43 mins      █████████████████████░░░░   84.61 % 
-Cursor                   10 hrs 22 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Claude Code              52 hrs 5 mins       ██████████████████████░░░   86.65 % 
+Cursor                   7 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 操作系统: 
-Mac                      65 hrs 7 mins       ████████████████████████░   95.46 % 
-Windows                  3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Mac                      57 hrs 8 mins       ████████████████████████░   95.03 % 
+Windows                  2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 64 hrs 1 min (93.83%)
+⏱ AI Coding Time: 56 hrs 28 mins (93.92%)
 
-✍️ 38,107 lines written by AI, 252 lines written by hand (99.34% AI-written)
+✍️ 33,117 lines written by AI, 243 lines written by hand (99.27% AI-written)
 
-🔤 482,058,030 Input Tokens, 5,008,856 Output Tokens
+🔤 452,298,292 Input Tokens, 4,306,996 Output Tokens
 
-💵 $2307.42 Estimated AI Cost This Week
+💵 $2150.96 Estimated AI Cost This Week
 
-🧠 120 AI Sessions, 725 AI Prompts
+🧠 100 AI Sessions, 603 AI Prompts
 
-Opus                     39,981 lines        ████████████████████████░   95.76 % 
-GPT                      1,769 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Opus                     36,349 lines        ████████████████████████░   97.14 % 
+GPT                      1,072 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📝 Concise Prompter — average 210 characters per prompt
+🤖 AI-Driven — 99.27% of written lines came from AI
+📝 Concise Prompter — average 225 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.19% of changed lines were hand-edited
+🚀 High AI Trust — 1.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/11/2026 05:47:35 UTC
+ Last Updated on 02/11/2026 05:46:15 UTC
 <!--END_SECTION:waka-->
 
 
