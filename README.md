@@ -50,49 +50,49 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               21 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   36.63 % 
-Markdown                 9 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Python                   8 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-HTML                     3 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-JavaScript               3 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+TypeScript               20 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
+Markdown                 9 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Python                   8 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+HTML                     3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+JavaScript               3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 编辑器: 
-Claude Code              47 hrs 49 mins      ████████████████████░░░░░   79.85 % 
-Cursor                   11 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Codex Vscode             35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Claude Code              46 hrs 30 mins      ████████████████████░░░░░   79.43 % 
+Cursor                   11 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Codex Vscode             35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 操作系统: 
-Mac                      53 hrs 36 mins      ██████████████████████░░░   89.51 % 
-Windows                  6 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Mac                      52 hrs 16 mins      ██████████████████████░░░   89.27 % 
+Windows                  6 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 hrs 1 min (90.21%)
+⏱ AI Coding Time: 52 hrs 43 mins (90.02%)
 
-✍️ 32,516 lines written by AI, 192 lines written by hand (99.41% AI-written)
+✍️ 31,882 lines written by AI, 191 lines written by hand (99.4% AI-written)
 
-🔤 580,381,615 Input Tokens, 5,011,835 Output Tokens
+🔤 573,351,284 Input Tokens, 4,936,998 Output Tokens
 
-💵 $2727.41 Estimated AI Cost This Week
+💵 $2695.90 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 461 AI Prompts
+🧠 69 AI Sessions, 456 AI Prompts
 
-Opus                     33,562 lines        ████████████████████████░   96.11 % 
-GPT                      1,358 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Opus                     32,867 lines        ████████████████████████░   96.03 % 
+GPT                      1,358 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 Invite                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.41% of written lines came from AI
-📝 Concise Prompter — average 364 characters per prompt
+🤖 AI-Driven — 99.4% of written lines came from AI
+📝 Concise Prompter — average 367 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.64% of changed lines were hand-edited
+🚀 High AI Trust — 0.65% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/11/2026 05:48:27 UTC
+ Last Updated on 09/11/2026 05:58:59 UTC
 <!--END_SECTION:waka-->
 
 
