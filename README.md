@@ -19,9 +19,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C493%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C496%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C099%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C103%20hrs%2010%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -50,50 +50,50 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               23 hrs 37 mins      ███████████░░░░░░░░░░░░░░   44.01 % 
-Markdown                 7 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-JavaScript               7 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Bash                     2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-YAML                     2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+TypeScript               24 hrs 51 mins      ███████████░░░░░░░░░░░░░░   43.27 % 
+Markdown                 7 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+JavaScript               7 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Bash                     2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Other                    2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🔥 编辑器: 
-Claude Code              30 hrs 3 mins       ██████████████░░░░░░░░░░░   56.01 % 
-Codex Vscode             12 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Cursor                   10 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Codex                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Claude Code              33 hrs 40 mins      ███████████████░░░░░░░░░░   58.63 % 
+Codex Vscode             12 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Cursor                   10 hrs 37 mins      █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Codex                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 操作系统: 
-Mac                      42 hrs              ████████████████████░░░░░   78.27 % 
-Windows                  11 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Mac                      42 hrs 21 mins      ██████████████████░░░░░░░   73.72 % 
+Windows                  15 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 hrs 50 mins (92.88%)
+⏱ AI Coding Time: 53 hrs 27 mins (93.06%)
 
-✍️ 29,554 lines written by AI, 249 lines written by hand (99.16% AI-written)
+✍️ 34,020 lines written by AI, 249 lines written by hand (99.27% AI-written)
 
-🔤 389,225,907 Input Tokens, 7,236,439 Output Tokens
+🔤 424,917,164 Input Tokens, 7,474,555 Output Tokens
 
-💵 $2415.78 Estimated AI Cost This Week
+💵 $2576.43 Estimated AI Cost This Week
 
-🧠 102 AI Sessions, 579 AI Prompts
+🧠 106 AI Sessions, 600 AI Prompts
 
-Opus                     24,671 lines        ████████████████████░░░░░   79.53 % 
-GPT                      6,348 lines         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Opus                     29,149 lines        █████████████████████░░░░   82.11 % 
+GPT                      6,348 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
 Cursor                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.16% of written lines came from AI
-📝 Concise Prompter — average 352 characters per prompt
+🤖 AI-Driven — 99.27% of written lines came from AI
+📝 Concise Prompter — average 341 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.86% of changed lines were hand-edited
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/11/2026 06:06:54 UTC
+ Last Updated on 16/11/2026 06:06:51 UTC
 <!--END_SECTION:waka-->
 
 
