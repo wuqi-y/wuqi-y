@@ -19,9 +19,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C526%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C531%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C133%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C138%20hrs%2051%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -50,52 +50,52 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Python                   5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Markdown                 4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Other                    4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-JavaScript               2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+TypeScript               9 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Python                   6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Other                    4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Markdown                 3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Rust                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 🔥 编辑器: 
-Claude Code              27 hrs 55 mins      ██████████████████░░░░░░░   73.68 % 
-VS Code                  5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Cursor                   2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Codex Vscode             1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Claude Code              29 hrs 21 mins      ███████████████████░░░░░░   74.80 % 
+VS Code                  6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Cursor                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Codex Vscode             1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 Codex                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 操作系统: 
-Windows                  19 hrs 19 mins      █████████████░░░░░░░░░░░░   50.98 % 
-Mac                      18 hrs 34 mins      ████████████░░░░░░░░░░░░░   49.02 % 
+Windows                  21 hrs 9 mins       █████████████░░░░░░░░░░░░   53.91 % 
+Mac                      18 hrs 5 mins       ████████████░░░░░░░░░░░░░   46.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 6 mins (90.02%)
+⏱ AI Coding Time: 35 hrs 36 mins (90.72%)
 
-✍️ 31,515 lines written by AI, 240 lines written by hand (99.24% AI-written)
+✍️ 33,324 lines written by AI, 242 lines written by hand (99.28% AI-written)
 
-🔤 304,256,834 Input Tokens, 4,509,198 Output Tokens
+🔤 422,658,639 Input Tokens, 6,056,714 Output Tokens
 
-💵 $1530.05 Estimated AI Cost This Week
+💵 $2128.99 Estimated AI Cost This Week
 
-🧠 104 AI Sessions, 422 AI Prompts
+🧠 109 AI Sessions, 444 AI Prompts
 
-Opus                     28,705 lines        ██████████████████████░░░   88.05 % 
-Fable                    2,110 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-GPT                      904 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Vscode                   865 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Opus                     30,379 lines        ██████████████████████░░░   87.76 % 
+Fable                    2,110 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Vscode                   1,205 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+GPT                      904 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 Qwen                     17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.24% of written lines came from AI
-📄 Detailed Prompter — average 995 characters per prompt
+🤖 AI-Driven — 99.28% of written lines came from AI
+📄 Detailed Prompter — average 946 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.85% of changed lines were hand-edited
+🚀 High AI Trust — 0.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/11/2026 06:27:02 UTC
+ Last Updated on 23/11/2026 07:18:03 UTC
 <!--END_SECTION:waka-->
 
 
